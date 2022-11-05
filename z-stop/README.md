@@ -22,10 +22,10 @@ This allows a z-stop to be mounted on the Switchwire. This provides the ability 
 - A zip-tie hole is included to assist with wire management.
 
 ### Align and Drill
-![](/images/z-stop-ender-register-and-drill-example.PNG)\
+![](/images/z-stop-ender-register-and-drill-example.PNG)
 
 ### Enderwire mount location
-![](/images/z-stop-ender-mount-location.PNG)\
+![](/images/z-stop-ender-mount-location.PNG)
 
 ### Prusa MK3 Y Carrier location
 TODO
