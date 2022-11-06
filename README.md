@@ -5,7 +5,7 @@ My contributions to the 3D printer community. Get a drink and have a look around
 ### Notes
 - Most of this is still in testing.
 - If you have issues, comments, or suggestions, please let me know on GitHub issues or via Discord: [:page_facing_up:Tree#0333](https://discordapp.com/users/934247044569264239)
-- Buy my a coffee [PayPal (Dustin Range)](https://www.paypal.com/paypalme/DustinRange)
+- Do you want to [buy me a coffee?](https://www.paypal.com/paypalme/DustinRange)
 
 # Table of Contents
 Switchwire | *
