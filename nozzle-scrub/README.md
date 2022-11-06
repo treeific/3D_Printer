@@ -1,4 +1,4 @@
-### [:arrow_left: back home](/README.md)
+[:arrow_left: Back to Table of Contents](/README.md)
 
 # Switchwire nozzle-scrub - beta testing
 ![](/images/nozzle-scrub.jpg)
