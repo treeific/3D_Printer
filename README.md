@@ -8,6 +8,8 @@ My collection of 3D printer 'stuff' that I think is worth sharing. Come on in an
 - Support my coffee habits. [PayPal (Dustin Range)](https://www.paypal.com/paypalme/DustinRange)
 
 # Table of Contents
+| Mod |  |
+| --- | :---: |
 | [:arrow_right: z-stop](/z-stop/)(switchwire) | [![](/images/z-stop.jpg)](/z-stop/) |
 | [:arrow_right: nozzle-scrub](/nozzle-scrub/)(switchwire) | [![](/images/nozzle-scrub.jpg)](/nozzle-scrub/) |
 
