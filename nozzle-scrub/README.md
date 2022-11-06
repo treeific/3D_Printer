@@ -5,7 +5,7 @@
 
 **:warning: Testing for nozzle-scrub mount is not complete, use at your own risk.**
 
-This allows a nozzle-scrub to be mounted on the Switchwire. This provides the ability to do nozzle probing, and take take advantage of [auto z calibration](https://github.com/protoloft/klipper_z_calibration).
+This allows a nozzle-scrub to be mounted on the Switchwire. This provides the ability to do nozzle probing, and take take advantage of [auto z calibration](https://github.com/protoloft/klipper_z_calibration). I use this in combination with [:arrow_right: z-stop](/z-stop/)
 
 ### Notes
 - This is modeled after the [Decontaminator](https://github.com/VoronDesign/VoronUsers/tree/master/abandoned_mods/printer_mods/edwardyeeks/Decontaminator_Purge_Bucket_%26_Nozzle_Scrubber) Props to the creator! (edwardyeeks I believe...)
@@ -23,6 +23,7 @@ This allows a nozzle-scrub to be mounted on the Switchwire. This provides the ab
 - M3 bolts
 - M3 nuts
 - M3 heatsets
+- 6x3 Magnets
 
 ## Instructions
 - You will need to align the mount on the under side of the bed, as illustrated for your printer. There are registration features to align the mount properly.
