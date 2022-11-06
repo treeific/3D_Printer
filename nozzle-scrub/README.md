@@ -1,4 +1,6 @@
 # Switchwire nozzle-scrub - beta testing
+![](/images/nozzle-scrub.jpg)
+
 **:warning: This guide not complete, use at your own risk.**
 
 **:warning: Testing for nozzle-scrub mount is not complete, use at your own risk.**

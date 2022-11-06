@@ -1,4 +1,6 @@
 # Switchwire z-stop mount - beta testing
+![](/images/z-stop.jpg)
+
 **:warning: This guide not complete, use at your own risk.**
 
 **:warning: Testing for z-stop mount is not complete, use at your own risk.**
