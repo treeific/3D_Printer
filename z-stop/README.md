@@ -1,4 +1,4 @@
-### [home](/README.md)
+### [:arrow_left: back home](/README.md)
 
 # Switchwire z-stop mount - beta testing
 ![](/images/z-stop.jpg)
