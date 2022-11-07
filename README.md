@@ -14,4 +14,5 @@ Switchwire | *
 [:arrow_right: nozzle-scrub](/nozzle-scrub/) | [![](/images/nozzle-scrub.jpg)](/nozzle-scrub/)
 
 # Changelog
+- Pending - Trimed purge bucket to fit Prusa carraige. 
 - 11-05-2022 - Enderwire beta release
