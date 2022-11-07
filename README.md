@@ -13,3 +13,5 @@ Switchwire | *
 [:arrow_right: z-stop](/z-stop/) | [![](/images/z-stop.jpg)](/z-stop/)
 [:arrow_right: nozzle-scrub](/nozzle-scrub/) | [![](/images/nozzle-scrub.jpg)](/nozzle-scrub/)
 
+# Changelog
+- 11-05-2022 - Enderwire beta release
