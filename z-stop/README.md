@@ -14,7 +14,13 @@ This allows a z-stop to be mounted on the Switchwire. This provides the ability 
 **:warning: Requires holes to be drilled in your Y Carriage**
 
 ## What else is needed
+### Enderwire
 - [Voron 2.4 nozzle_probe.stl](https://github.com/VoronDesign/Voron-2/tree/Voron2.4/STLs/Z_Endstop)
+### Switchwire
+- [KlickyProbe_Long_v2.stl](https://github.com/jlas1/Klicky-Probe/blob/main/Probes/KlickyProbe/STL/KlickyProbe_Long_v2.stl)
+### GCR
+- TODO
+
 ## BOM
 - M3 bolts
 - M3 nuts
@@ -25,16 +31,20 @@ This allows a z-stop to be mounted on the Switchwire. This provides the ability 
 - Mark and drill the holes once the mount is aligned.
 - A zip-tie hole is included to assist with wire management.
 
-### Align and Drill
+### Enderwire
+#### Align and Drill
 ![](/z-stop/images/z-stop-ender-register-and-drill-example.PNG)
 
-### Enderwire mount location
+#### Enderwire mount location
 ![](/z-stop/images/z-stop-ender-mount-location.PNG)
 
-### Prusa MK3 Y Carrier location
-TODO
+### Switchwire
+#### Align and Drill
+![](/z-stop/images/z-stop-prusa-register-and-drill-example.PNG)
+#### Prusa MK3 Y Carrier location
+![](/z-stop/images/z-stop-prusa-mount-location.PNG)
 
-### GCR carriage
+#### GCR carriage
 TODO
 
 ## TODO
