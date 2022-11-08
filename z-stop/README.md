@@ -39,6 +39,15 @@ This allows a z-stop to be mounted on the Switchwire. This provides the ability 
 ![](/z-stop/images/z-stop-ender-mount-location.PNG)
 
 ### Switchwire
+#### Notes
+
+Switchiwre has much less space to work with compared to ender wire. The z-stop needs to be on the front of the bed. You also need to change your klicky to the 'long' or 'longer'
+**:warning: You need to use [KlickyProbe_Long_v2.stl](https://github.com/jlas1/Klicky-Probe/blob/main/Probes/KlickyProbe/STL/KlickyProbe_Long_v2.stl)**
+![](/z-stop/images/z-stop-prusa-KlickyProbe_Long_v2.PNG)
+
+Very tight tolerances, testing will prove if this fits or not (I only own Enderwire)
+![](/z-stop/images/z-stop-prusa-tight-tolerances.PNG)
+
 #### Align and Drill
 ![](/z-stop/images/z-stop-prusa-register-and-drill-example.PNG)
 #### Prusa MK3 Y Carrier location
