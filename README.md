@@ -13,7 +13,7 @@ Switchwire | *
 [:arrow_right: z-stop](/z-stop/) | [![](/images/z-stop.jpg)](/z-stop/)
 [:arrow_right: nozzle-scrub](/nozzle-scrub/) | [![](/images/nozzle-scrub.jpg)](/nozzle-scrub/)
 Clockwork 2 | *
-[:arrow_right: CW2 Filament Sensor](/CW2-FRS/) | [![](/CW2-FRS/images/CW2-FRS-whole.PNG)](/nozzle-scrub/)
+[:arrow_right: CW2 Filament Sensor](/CW2-FRS/) | [![](/CW2-FRS/images/CW2-FRS-whole.PNG)](/CW2-FRS/)
 
 # Changelog
 - Pending - Trimed purge bucket to fit Prusa carraige. 
