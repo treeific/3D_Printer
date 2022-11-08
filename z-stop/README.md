@@ -9,8 +9,6 @@
 
 This allows a z-stop to be mounted on the Switchwire. This provides the ability to do nozzle probing, and take take advantage of [auto z calibration](https://github.com/protoloft/klipper_z_calibration). I use this in combination with [:arrow_right: nozzle-scrub](/nozzle-scrub/)
 
-**:warning: Only Enderwire conversions are supported at this time**
-
 **:warning: Requires holes to be drilled in your Y Carriage**
 
 ## What else is needed
