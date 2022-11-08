@@ -14,7 +14,7 @@ Switchwire | *
 [:arrow_right: nozzle-scrub](/nozzle-scrub/) | [![](/images/nozzle-scrub.jpg)](/nozzle-scrub/)
 Clockwork 2 | *
 [:arrow_right: CW2 Filament Sensor](/CW2-FRS/) | [![](/CW2-FRS/images/CW2-FRS-whole.PNG)](/CW2-FRS/)
-[:arrow_right: Ender 3 hotened on Stealhburner](/CW2-SB-MK8/) | [![](/CW2-SB-MK8/images/sb-mk8-rear-cw2.PNG)](/CW2-SB-MK8/)
+[:arrow_right: Ender 3 hotened on Stealthburner printhead](/CW2-SB-MK8/) | [![](/CW2-SB-MK8/images/sb-mk8-rear-cw2.PNG)](/CW2-SB-MK8/)
 
 # Changelog
 - Pending - Trimed purge bucket to fit Prusa carraige.
