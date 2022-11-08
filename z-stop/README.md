@@ -39,7 +39,9 @@ This allows a z-stop to be mounted on the Switchwire. This provides the ability 
 ### Switchwire
 #### Notes
 
-Switchiwre has much less space to work with compared to ender wire. The z-stop needs to be on the front of the bed. You also need to change your klicky to the 'long' or 'longer'
+Switchiwre has much less space to work with compared to ender wire. 
+The z-stop needs to be on the front of the bed. You also need to change your klicky to the 'long' or 'longer'
+
 **:warning: You need to use [KlickyProbe_Long_v2.stl](https://github.com/jlas1/Klicky-Probe/blob/main/Probes/KlickyProbe/STL/KlickyProbe_Long_v2.stl)**
 ![](/z-stop/images/z-stop-prusa-KlickyProbe_Long_v2.PNG)
 
@@ -55,5 +57,4 @@ Very tight tolerances, testing will prove if this fits or not (I only own Enderw
 TODO
 
 ## TODO
-- add support for [Prusa MK3 Y Carrier](https://www.prusa3d.com/product/y-carriage-mk3-s/)
 - add support for [GCR carriage](https://gulfcoast-robotics.com/products/modular-y-carriage-plate-upgrade-creality-ender-3-point-leveling)
