@@ -15,4 +15,5 @@ Switchwire | *
 
 # Changelog
 - Pending - Trimed purge bucket to fit Prusa carraige. 
+- 11-07-2022 - Switchwire beta release z-stop only
 - 11-05-2022 - Enderwire beta release
