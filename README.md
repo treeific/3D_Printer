@@ -12,8 +12,11 @@ Switchwire | *
 :--- | ---:
 [:arrow_right: z-stop](/z-stop/) | [![](/images/z-stop.jpg)](/z-stop/)
 [:arrow_right: nozzle-scrub](/nozzle-scrub/) | [![](/images/nozzle-scrub.jpg)](/nozzle-scrub/)
+Clockwork 2 | *
+[:arrow_right: CW2 Filament Sensor](/CW2-FRS/) | [![](/CW2-FRS/images/CW2-FRS-whole.PNG)](/nozzle-scrub/)
 
 # Changelog
 - Pending - Trimed purge bucket to fit Prusa carraige. 
+- 11-08-2022 - CW2 filament switch added
 - 11-07-2022 - Switchwire beta release z-stop only
 - 11-05-2022 - Enderwire beta release
