@@ -16,6 +16,7 @@ Setup the variables like hotend and cold_pull. hotend should be normal printing 
 - I run some case fans and case light to get my attention when it's done. I commented these out. You can run a beeper here if you have it.
 
 ## Macro
+```
 [gcode_macro _LOGGER]
 gcode:
 	{% set msg = params.MSG|string %}
@@ -27,8 +28,8 @@ gcode:
     # Change these
     {% set hotend =  235 %} 		# my melting temp for ABS
     {% set cold_pull = 105 %}		# my cold pull for ABS
-    {% set press = 11 %}			# how long to press/extrude filiment while cooling off
-    								# @ 20mm... 20 about 60 seconds, 16 about 75 seconds, 14 about 85 seconds, 13 about 90 seconds, 10 about 120 seconds
+    {% set press = 11 %}		# how long to press/extrude filiment while cooling off
+    					# @ 20mm... 20 about 60 seconds, 16 about 75 seconds, 14 about 85 seconds, 13 about 90 seconds, 10 about 120 seconds
 
     # Shouldn't need to change these
     {% set prime = 1 %}             # purge in mm
@@ -63,3 +64,4 @@ gcode:
         _LOGGER MSG="Pull Manually!"
     #_case_fan_off                           # Give up the attention
     #_bed_fan_off                            # Give up the attention
+```
