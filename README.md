@@ -15,9 +15,12 @@ Switchwire | *
 Clockwork 2 | *
 [:arrow_right: CW2 Filament Sensor](/CW2-FRS/) | [![](/CW2-FRS/images/CW2-FRS-whole.PNG)](/CW2-FRS/)
 [:arrow_right: Ender 3 hotened on Stealthburner printhead](/CW2-SB-MK8/) | [![](/CW2-SB-MK8/images/sb-mk8-rear-cw2.PNG)](/CW2-SB-MK8/)
+Klipper Macros | *
+[:arrow_right: Cold Pull](/macros/cold_pull/) | [![](/macros/cold_pull/images/cold_pull.jpg)](/macros/cold_pull/)
 
 # Changelog
 - Pending - Trimed purge bucket to fit Prusa carraige.
+- 11-18-2022 - Cold pull macro added
 - 11-08-2022 - CW2 Ender 3 hotend MK8 added
 - 11-08-2022 - CW2 filament switch added
 - 11-07-2022 - Switchwire beta release z-stop only
