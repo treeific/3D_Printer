@@ -20,7 +20,7 @@ This allows a z-stop to be mounted on the Switchwire. This provides the ability 
 - TODO
 
 ## BOM
-- M3 bolts
+- M3 bolts 16mmx2n 10mmx2
 - M3 nuts
 - M3 heatsets
 
