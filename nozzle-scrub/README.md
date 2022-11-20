@@ -32,6 +32,30 @@ This allows a nozzle-scrub to be mounted on the Switchwire. This provides the ab
 - Mark and drill the holes once the mount is aligned.
 - A zip-tie hole is included to assist with wire management.
 
+## Config
+These are my current settings, I highly recommend to check and possibly use your own.
+```
+## Switchwire
+variable_brush_start:     17.8
+
+# This value is defaulted from brush location in CAD (rear left). Change if your brush width is different.
+variable_brush_width:     51
+
+## These are only used if location_bucket_rear is False. You specify a custom location in y axis for your brush - see diagram above. ##
+variable_brush_front:       0          
+variable_brush_depth:       0
+...
+## Switchwire, not used but needs to be defined 
+variable_bucket_left_width:    17.8
+
+# These values are defaulted from bucket geometry in CAD (rear left location). Change only if you're using a custom bucket.
+variable_bucket_right_width:   23            
+variable_bucket_gap:           46	
+
+# For V1.8, you may need to measure where your bucket start is and input into bucket_start. Otherwise, a value of 0 is for a default
+# installation of purge bucket at rear left.
+variable_bucket_start: 0
+```
 ### Align and Drill
 ![](/nozzle-scrub/images/nozzle-scrub-ender-register-and-drill-example.PNG)
 
