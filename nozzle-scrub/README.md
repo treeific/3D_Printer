@@ -10,7 +10,7 @@
 This allows a nozzle-scrub to be mounted on the Switchwire. This provides the ability to do nozzle probing, and take take advantage of [auto z calibration](https://github.com/protoloft/klipper_z_calibration). I use this in combination with [:arrow_right: z-stop](/z-stop/)
 
 ### Notes
-- This is modeled after the [Decontaminator](https://github.com/VoronDesign/VoronUsers/tree/master/abandoned_mods/printer_mods/edwardyeeks/Decontaminator_Purge_Bucket_%26_Nozzle_Scrubber) Props to the creator! (edwardyeeks I believe...)
+- This is modeled after the [Decontaminator](https://github.com/VoronDesign/VoronUsers/tree/master/orphaned_mods/printer_mods/edwardyeeks/Decontaminator_Purge_Bucket_&_Nozzle_Scrubber) Props to the creator! (edwardyeeks I believe...)
 - The brush mount here is a copy of 'Decontaminator', just trimmed down to fit the Switchwire
 - Even the purge bucket is inspired by the 'Decontaminator'
 
