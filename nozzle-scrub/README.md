@@ -22,7 +22,7 @@ This allows a nozzle-scrub to be mounted on the Switchwire. This provides the ab
 - TODO
 
 ## BOM
-- M3 bolts
+- M3 bolts 16mmx2, 6mmx2
 - M3 nuts
 - M3 heatsets
 - 6x3 Magnets
