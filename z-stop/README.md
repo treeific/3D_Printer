@@ -29,6 +29,8 @@ This allows a z-stop to be mounted on the Switchwire. This provides the ability 
 - Mark and drill the holes once the mount is aligned.
 - A zip-tie hole is included to assist with wire management.
 
+## Configs
+- TODO 🙂 meanwhile, [this (from LoganFraser)](https://github.com/LoganFraser/VoronMods/tree/main/KlickySetup) is a really good start
 ### Enderwire
 #### Align and Drill
 ![](/z-stop/images/z-stop-ender-register-and-drill-example.PNG)
