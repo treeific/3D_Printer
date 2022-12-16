@@ -18,6 +18,10 @@ This allows a nozzle-scrub to be mounted on the Switchwire. This provides the ab
 
 **:warning: Requires holes to be drilled in your Y Carriage**
 
+## See it in action
+Credit to krapstar#0301
+[![](https://img.youtube.com/vi/y8KPx6Bqce4/0.jpg)](https://www.youtube.com/watch?v=y8KPx6Bqce4)
+
 ## What else is needed
 - TODO
 
