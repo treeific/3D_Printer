@@ -35,6 +35,8 @@ Credit to krapstar#0301
 
 ## Configs
 - TODO 🙂 meanwhile, [this (from LoganFraser)](https://github.com/LoganFraser/VoronMods/tree/main/KlickySetup) is a really good start
+- Consider [adaptive bed mesh](https://github.com/kyleisah/Klipper-Adaptive-Meshing-Purging#user-content-fn-1-1a6a9635a25976ce62c2dfde4d2f1470), somewhat un-related but pretty cool.
+
 ### Enderwire
 #### Align and Drill
 ![](/z-stop/images/z-stop-ender-register-and-drill-example.PNG)
