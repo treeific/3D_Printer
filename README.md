@@ -13,7 +13,7 @@ Switchwire | *
 [:arrow_right: z-stop](/z-stop/) | [![](/images/z-stop.jpg)](/z-stop/)
 [:arrow_right: nozzle-scrub](/nozzle-scrub/) | [![](/images/nozzle-scrub.jpg)](/nozzle-scrub/)
 Stealthburner | *
-[:arrow_right: SB led_diffuser (hot glue)](/led_diffuser_mould/) | [![](/led_diffuser_mould/images/moulded-part.jpg)](/led_diffuser_mould/)
+[:arrow_right: SB led_diffuser (hot glue)](/led_diffuser_mould/) | [![](/led_diffuser_mould/images/installed.jpg)](/led_diffuser_mould/)
 [:arrow_right: CW2 Filament Sensor](/CW2-FRS/) | [![](/CW2-FRS/images/CW2-FRS-whole.PNG)](/CW2-FRS/)
 [:arrow_right: Ender 3 hotened on Stealthburner printhead](/CW2-SB-MK8/) | [![](/CW2-SB-MK8/images/sb-mk8-rear-cw2.PNG)](/CW2-SB-MK8/)
 Klipper Macros | *
