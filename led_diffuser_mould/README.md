@@ -1,6 +1,7 @@
 [:arrow_left: Back to Table of Contents](/README.md)
 
 # Stealthburner LED diffuser - Hot glue mould
+![](/led_diffuser_mould/images/installed.jpg)
 ![](/led_diffuser_mould/images/moulded-part.jpg)
 
 With hot glue diffuser
