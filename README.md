@@ -8,8 +8,10 @@ My contributions to the 3D printer community. Get a drink and have a look around
 - Do you want to [buy me a coffee?](https://www.paypal.com/paypalme/DustinRange)
 
 # Table of Contents
-Switchwire | *
+Stealthburner | *
 :--- | ---:
+[:arrow_right: SB led_diffuser (hot glue)](/led_diffuser_mould/) | [![](/led_diffuser_mould/images/moulded-part.jpg)](/led_diffuser_mould/)
+Switchwire | *
 [:arrow_right: z-stop](/z-stop/) | [![](/images/z-stop.jpg)](/z-stop/)
 [:arrow_right: nozzle-scrub](/nozzle-scrub/) | [![](/images/nozzle-scrub.jpg)](/nozzle-scrub/)
 Clockwork 2 | *
@@ -20,6 +22,7 @@ Klipper Macros | *
 
 # Changelog
 - Pending - Trimed purge bucket to fit Prusa carraige.
+- 02-15-2023 - SB LED Diffuser (hotglue) added
 - 11-18-2022 - Cold pull macro added
 - 11-08-2022 - CW2 Ender 3 hotend MK8 added
 - 11-08-2022 - CW2 filament switch added
