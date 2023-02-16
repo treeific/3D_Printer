@@ -9,8 +9,8 @@ My contributions to the 3D printer community. Get a drink and have a look around
 
 # Table of Contents
 Stealthburner | *
-[:arrow_right: SB led_diffuser (hot glue)](/led_diffuser/) | [![](/images/moulded-part.jpg)](/z-stop/)
 :--- | ---:
+[:arrow_right: SB led_diffuser (hot glue)](/led_diffuser_mould/) | [![](/led_diffuser_mould/images/moulded-part.jpg)](/z-stop/)
 Switchwire | *
 [:arrow_right: z-stop](/z-stop/) | [![](/images/z-stop.jpg)](/z-stop/)
 [:arrow_right: nozzle-scrub](/nozzle-scrub/) | [![](/images/nozzle-scrub.jpg)](/nozzle-scrub/)
