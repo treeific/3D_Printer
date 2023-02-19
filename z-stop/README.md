@@ -10,6 +10,7 @@
 This allows a z-stop to be mounted on the Switchwire. This provides the ability to do nozzle probing, and take take advantage of [auto z calibration](https://github.com/protoloft/klipper_z_calibration). I use this in combination with [:arrow_right: nozzle-scrub](/nozzle-scrub/)
 
 **:warning: Requires holes to be drilled in your Y Carriage**
+**:warning: The ender stock bed leveling wheels do not fit, you can try hard mounting**
 
 ## See it in action
 Credit to krapstar#0301
