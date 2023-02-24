@@ -22,7 +22,7 @@ Credit to krapstar#0301
 ### Switchwire
 - [KlickyProbe_Long_v2.stl](https://github.com/jlas1/Klicky-Probe/blob/main/Probes/KlickyProbe/STL/KlickyProbe_Long_v2.stl)
 ### GCR
-- TODO
+- [Voron 2.4 nozzle_probe.stl](https://github.com/VoronDesign/Voron-2/tree/Voron2.4/STLs/Z_Endstop)
 
 ## BOM
 - M3 bolts 16mmx2n 10mmx2
@@ -63,7 +63,8 @@ Very tight tolerances, testing will prove if this fits or not (I only own Enderw
 ![](/z-stop/images/z-stop-prusa-mount-location.PNG)
 
 #### GCR carriage
-TODO
+You need to rotate the GCR bed. The z-stop-gcr-mount.stl will bolt to the existing holes on the (now) back right, similar to Enderwire mentioned above.
+
 
 ## TODO
 - add support for [GCR carriage](https://gulfcoast-robotics.com/products/modular-y-carriage-plate-upgrade-creality-ender-3-point-leveling)
