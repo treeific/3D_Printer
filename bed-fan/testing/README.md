@@ -28,14 +28,16 @@ Test 1 - only parts fan - 53.6
 Test 2 - Nevermore and parts fan - 53
 ![](/bed-fan/testing/images/parts_and_nevermore_fans.jpg_)
 
-Test 3 - All 3 fans, pos 1 - 62.2
+Test 3 - Only bed fans (pos 1) - 57.5
+
+Test 4 - All 3 fans, pos 1 - 62.2
 ![](/bed-fan/testing/images/pos_1.jpg)
 
-Test 4 - All 3 fans, pos 1 flat- 57.1
+Test 5 - All 3 fans, pos 1 flat- 57.1
 ![](/bed-fan/testing/images/pos_1_flat.jpg)
 
-Test 5 - All 3 fans, pos 2 - 56.6
+Test 6 - All 3 fans, pos 2 - 56.6
 ![](/bed-fan/testing/images/pos_2.jpg)
 
-Test 6 - All 3 fans, pos 3 - 53.3
+Test 7 - All 3 fans, pos 3 - 53.3
 ![](/bed-fan/testing/images/pos_3.jpg)
