@@ -1,5 +1,9 @@
 [:arrow_left: Back to Table of Contents](/README.md)
 
+The purpose of these tests is to find the ideal bed fans setup on the enderwire.
+Bed fans are intended to increase chamber temperature to allow thermal sensitive materials to print easier. AKA prevent ABS warping.
+
+
 ### SW bed fans test setup
 All these tests were only performed once. No averages taken.
 
