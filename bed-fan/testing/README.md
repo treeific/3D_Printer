@@ -4,7 +4,7 @@ All these tests were only performed once. No averages taken.
 
 The ambient temperature was around 70F for each test.
 
-I'm running [Darkdogs ender 3 conversion](https://github.com/boubounokefalos/Ender_SW ) Rev1, with modifications of my own. 
+I'm running [Darkdogs ender 3 conversion](https://github.com/boubounokefalos/Ender_SW ) Rev1, with minor modifications of my own (mostly to do with the enclosure). 
 These tests are using that encloser's dimensions. I am using thicker plexiglass (6mm) and wood panels instead of coriplast. I also added some 'insulation' to some areas.
 
 I added a nevermore to the back of the enclosure, it blows across the top of the chamber, towards the doors
