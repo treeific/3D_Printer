@@ -7,7 +7,11 @@ The ambient temperature was around 70F for each test.
 I'm running [Darkdogs ender 3 conversion](https://github.com/boubounokefalos/Ender_SW ) Rev1, with minor modifications of my own (mostly to do with the enclosure). 
 These tests are using that encloser's dimensions. I am using thicker plexiglass (6mm) and wood panels instead of coriplast. I also added some 'insulation' to some areas.
 
+Chamber Thermistor location
+![](/bed-fan/testing/images/chamber_thermistor.jpg)
+
 I added a nevermore to the back of the enclosure, it blows across the top of the chamber, towards the doors
+![](/bed-fan/testing/images/nevermore.jpg)
 
 All tests used a macro to set the same bed (105C) and hotend (115C) and to 'park' the bed and hotend in the center. I took the final measurement whenever "I felt like" the temerapure stopped climing. Typically if I didn't see an upward trend over about 20 minutes, I called the test and moved on. 
 
