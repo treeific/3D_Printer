@@ -1,6 +1,6 @@
 [:arrow_left: Back to Table of Contents](/README.md)
 
-### Test setup
+### SW bed fans test setup
 All these tests were only performed once. No averages taken.
 
 The ambient temperature was around 70F for each test.
