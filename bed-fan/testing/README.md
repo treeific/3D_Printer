@@ -1,5 +1,6 @@
 [:arrow_left: Back to Table of Contents](/README.md)
 
+### Test setup
 All these tests were only performed once. No averages taken.
 
 The ambient temperature was around 70F for each test.
@@ -18,6 +19,8 @@ All tests used a macro to set the same bed (105C) and hotend (115C) and to 'park
 Each test took about an hour or so to run.
 
 I wanted to share these results for a couple reasons, but mostly so I can test other's ideas too. So, let me know if you have a fan position you want to test!
+
+### Test results
 
 Baseline test - no fans - 55.6
 ![](/bed-fan/testing/images/no_fans.jpg_)
