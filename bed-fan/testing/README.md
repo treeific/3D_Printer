@@ -8,6 +8,7 @@ The ambient temperature was around 70F for each test.
 I'm running [Darkdogs ender 3 conversion](https://github.com/boubounokefalos/Ender_SW ) Rev1, with modifications of my own (mostly to do with the enclosure). 
 These tests are using that encloser's dimensions. I am using thicker plexiglass (6mm) and wood panels instead of coriplast. I also added some 'insulation' to some areas.
 
+### Tested with 110V / 500W bed
 A big factor in theses tests. I'm running a 110v AC bed heater, 500W. A stock ender bed might in theory would get similar results, but it will take so long to heat up while bed fans keep cooling it off, that it will throw a klipper error after a few mintues. Yeah you can monkey with that stuff, but I don't really recommend it. Even if you got past the warnings/errors, it'd take 45+ minutes to get to temperature for every print.
 
 Chamber Thermistor location
